@@ -1,6 +1,6 @@
 numpy
 keras
-tensorflow-cpu==2.5.0
+tensorflow-cpu
 pandas
 matplotlib
 pillow
